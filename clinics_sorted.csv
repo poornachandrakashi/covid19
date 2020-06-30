@@ -1,0 +1,445 @@
+Sl. No,Name of Fever Clinic,Clinic Type,Address,Ward,District,Pin Code,Capacity,Latitude,Latitude
+1,UPHC Navanagar,Government PHC/UPHC,Near Stadium sector no 47 Navnagar,Ward No - 25,Bagalkot,587103,100,16.150961,75.663333
+2,UPHC Ilkal,Government PHC/UPHC,Near Mahantesh Matha Ilkal,Ward No - 2,Bagalkot,587125,100,15.9613797,76.1129627
+3,UPHC Terdal,Government PHC/UPHC,Amedkar Circle Terdal,Ward No - 11,Bagalkot,587315,100,16.497388,75.045584
+4,UPHC Mudhol,Government PHC/UPHC,Jayanagar Near Lamani Thanda Mudhol,Ward No - 13,Bagalkot,587313,100,15.9613797,76.1129627
+5,UPHC Jamkhandi,Government PHC/UPHC,Chowdayya Nagar Near Ganadevi temple Jamkhandi,Ward No - 19,Bagalkot,587301,37,16.4992237,75.2863899
+6,Urban Primary Health Center Rabkavi,Government PHC/UPHC,vidyanagar Behind KEB Rabkavi,Ward No - 31,Bagalkot,587116,200,16.3541101,75.1873218
+7,CHC Mahalingpur,Government CHC,CHC Mahalingpur,Ward No - 17,Bagalkot,587312,100,16.382942,75.1000288
+8,TH Mudhol,Government TH,TH Mudhol,Ward No - 21,Bagalkot,587313,100,16.3837953,75.0965384
+9,CHC Rabakvi Banhatti,Government CHC,CHC Rabakavi Banhatti,Ward No - 15,Bagalkot,587314,100,16.4770444,75.1189515
+10,TH Jamakhandi,Government TH,TH Jamakhandi,Ward No - 14,Bagalkot,587301,100,16.5047611,75.277704
+11,CHC Girisagar,Government CHC,CHC Girisagar,,Bagalkot,587116,100,16.3551905,75.6981472
+12,TH Bilagi,Government TH,TH Bialagi,Ward No - 18,Bagalkot,587116,100,16.3551789,75.6344777
+13,CHC Kudalasangam,Government CHC,CHC Kudalasangam,,Bagalkot,587112,50,16.2028991,76.0553046
+14,GH Ilkal,Government TH,GH Ilkal,Ward No - 12,Bagalkot,587125,100,15.9603293,76.0958789
+15,Government Taluk Hospital Hunagund,Government TH,TH Hunagund,Ward No - 1,Bagalkot,587118,100,16.0640314,76.055218
+16,CHC Guledagudda,Government CHC,CHC Guledagudda,NULL,Bagalkot,587203,100,16.0490301,75.7806015
+17,CHC Kerur,Government CHC,CHC Kerur,Ward No - 1,Bagalkot,587206,70,16.0109593,75.5398464
+18,Taluk Hospital Badami,Government TH,TH Badami,Ward No - 1,Bagalkot,587201,100,15.9169927,75.6521108
+19,Fifty Bed Hospital Bagalkote,Government TH,Old Bagalkot Bagalkot,Ward No - 1,Bagalkot,587101,50,16.1823683,75.6914538
+20,District Hospital Bagalkote,Government DH,Navanagar Bagalkot,Ward No - 9,Bagalkot,587102,150,16.1617734,75.6398491
+21,Srinivasa Speciality Hospital ,Private,3Rd Cross T G Extension Hosakote Town Hosakote Taluk,Ward No - 12,Bangalore Rural,562144,20,13.0740335,77.7833158
+22,MVJ MC and RH,Private,Kolar Road Dandupalya Hosakote Town,Ward No - 20,Bangalore Rural,562114,40,13.0156192,77.7258099
+23,Sri Siddhartha Institute Of Medical Sciences And Research Centre,Private,T Begur Nelamangala Taluk,NA,Bangalore Rural,562123,4,13.0985408,77.3895326
+24,GENERAL HOSPITAL DEVANAHALLI,Government TH,Vijayapura Road Devanahalli Town,Maralubagilu Harijana Colony,Bangalore Rural,562110,16,13.2580837,77.7213293
+25,GENERAL HOSPITAL HOSAKOTE,Government TH,Santhe Maidana Malur Road Hosakote City,Ward No - 19,Bangalore Rural,562114,16,13.0654313,77.7986505
+26,GENERAL HOSPITAL NELAMANGALA,Government TH,Near Taluk Office B H Road Nelamangala,Rayannagar,Bangalore Rural,562123,10,13.098295,77.3877131
+27,PHC SULIBELE,Government PHC/UPHC,Sulibele Village Hosakote Taluk,NA,Bangalore Rural,562129,10,13.1856193,77.7945008
+28,PHC NANDAGUDI,Government PHC/UPHC,Nandagudi Village Hosakote Taluk,NA,Bangalore Rural,562122,3,13.1786008,77.8803276
+29,CHC VIJAYAPURA,Government CHC,Near Govt Hostel Vijayapura Devanahalli Taluk,Ashok Nagara,Bangalore Rural,562135,3,13.2875098,77.7696295
+30,CHC THYAMAGONDLU,Government CHC,B H Road Thyamagondlu Nelamangala Taluk,NA,Bangalore Rural,562123,7,13.157816,77.2756912
+31,URBAN HEALTH CENTRE DODDABALLAPURA,Government PHC/UPHC,Near Doddaballapura Town Bus stop Doddaballapura,Gandhinagara,Bangalore Rural,561203,4,13.29235,77.5429138
+32,GENERAL HOSPITAL DODDABALLAPURA,Government TH,Near T B Circle Doddaballapura Town Doddaballapura,Bashveshwara Nagara,Bangalore Rural,561203,30,13.3114457,77.5446059
+33,PHC Chandapura,Government PHC/UPHC,Primary Health Center Chandapura Bangalore U District Anekal,NA,Bangalore urban,560099,30,12.8723206,77.6499647
+34,PHC Jigani,Government PHC/UPHC,Primary Health Center Jigani Bangalore U District Anekal,NA,Bangalore urban,562106,30,12.8413638,77.5008121
+35,PHC Hebbagodi,Government PHC/UPHC,Primary Health Center Hebbagodi Bangalore U District Anekal,NA,Bangalore urban,560099,30,12.8054112,77.4006813
+36,PHC Haragadde,Government PHC/UPHC,Primary Health Center Haragadde Bangalore U District Anekal,NA,Bangalore urban,560105,30,12.764764,77.5833142
+37,PHC Attibele,Government PHC/UPHC,Primary Health Center Attibele Bangalore Urban District Anekal,NA,Bangalore urban,562107,32,12.8651027,77.6013887
+38,CHC Avalahalli,Government CHC,Primary Health Center Avalahalli Old Madars road Virgonagar Post Bangalore,NA,Bangalore urban,560049,30,12.9609866,77.483403
+39,PHC Mandur,Government PHC/UPHC,Primary Health Center Manduru Bidirahalli hobli Mandur post Bangalore,NA,Bangalore urban,560049,30,13.0816458,77.7213616
+40,PHC Kannur,Government PHC/UPHC,Primary Health Center Kannuru Post Bangalore,NA,Bangalore urban,562149,30,13.0971556,77.6454806
+41,PHC Bidrahalli,Government PHC/UPHC,Primary Health Center Bidarahalli Virgo Nagar Post Bidirahalli Bangalore,NA,Bangalore urban,560047,30,13.3389335,78.2143323
+42,PHC Kadusonnappanahalli,Government PHC/UPHC,Primary Health Center Kadusonnappanahalli Kannurupost Bangalore,NA,Bangalore urban,562149,30,13.0828019,77.4987755
+43,CHC Kaggalipura,Government CHC,Community Health Center Kaggalipura Kanakapura main Road Bangalore South Taluk Bangalore Urban District Bangalore,NA,Bangalore urban,560060,50,12.2751496,76.8820422
+44,CHC Chandrappa Circle,Government CHC,Community Health Center Chandrappacircle Bangalore South Taluk Bangalore Urban District Bangalore,NA,Bangalore urban,562130,40,12.9570992,77.3000962
+45,PHC Kumbalagudu,Government PHC/UPHC,Primary Health Center Kumbalagodu Bangalore South Taluk Bangalore Urban District Bangalore,NA,Bangalore urban,560074,30,12.9576936,77.3000952
+46,PHC K Gollahalli,Government PHC/UPHC,Primary Health Center K Gollahalli Bangalore South Taluk Bangalore Urban District Bangalore,NA,Bangalore urban,560060,30,12.7170372,77.2875316
+47,PHC Tavarekere,Government PHC/UPHC,Primary Health Center Tavarekere Bangalore South Taluk Bangalore Urban District Bangalore,NA,Bangalore urban,562130,30,12.9359066,77.6145786
+48,PHC Chikkabanavara,Government PHC/UPHC,Primary Health Centre PHC Chikkabanavara Hesaraghatta Main Road Bangalore North Taluk Bangalore,NA,Bangalore urban,560090,31,13.088663,77.4931252
+49,PHC Rajanukunte,Government PHC/UPHC,Primary Health Centre PHC Rajankunte Doddaballapura MainRoad Bangalore North Taluk Bangalore,NA,Bangalore urban,560064,30,13.1870068,77.5151768
+50,PHC Makalli,Government PHC/UPHC,Primary Health Centre PHC Makali Alur Road Dasanpura Hobli Bangalore North Taluk Bangalore,NA,Bangalore urban,562123,30,13.0915743,77.3789207
+51,PHC Hesaraghatta,Government PHC/UPHC,Primary Health Centre PHC Hesaraghatta Ivaragandapura Hesaraghatta Post Bangalore North Taluk Bangalore,NA,Bangalore urban,560088,30,13.0927609,77.3789186
+52,PHC Chikkajala,Government PHC/UPHC,Primary Health Centre PHC Chikkajala Chikkajala Post Bangalore North Taluk Bangalore,NA,Bangalore urban,562157,30,13.1074562,77.4579342
+53,K G HALLI,Government PHC/UPHC,Ward no 23 no4 ipp building amc road kg halli bangalore,Nagavara,Bangalore urban,560045,100,13.023073,77.6015093
+54,Kodihalli UPHC,Government PHC/UPHC,Ward No 88 1st cross Behind Ward Office Old Airport Road Kodihalli Bangalore,Jeevanbhima Nagar,Bangalore urban,560008,100,12.9583911,77.6466477
+55,Taskar Town,Government PHC/UPHC,Braoadway Dispensary Shivajinagar,Jayamahal,Bangalore urban,560051,100,12.9972082,77.5934389
+56,Mejestic Transtic Clinic,Government PHC/UPHC,Mejestic BMTC bus stop,Gandhinagar,Bangalore urban,560001,100,12.9784675,77.5698932
+57,Yeshwanthapura Transit clinic,Government PHC/UPHC,Yeshwanthapura BMTC bus stop,Rajajinagar,Bangalore urban,560022,100,13.034331,77.5065902
+58,Ulsoor RH,Government CHC,ward no 89 ulsoor refferal hospital cambridge road near ulsoor police station,Jogapalya,Bangalore urban,560008,100,12.9735702,77.6243353
+59,Sulthan Palya UPHC,Government PHC/UPHC,Ward No 32 Near puspanjali theatre opp Lalbahaddur shasthri college R T nagar,Pulikeshi Nagar,Bangalore urban,560032,100,13.0126207,77.5391071
+60,M R Palya UPHC,Government PHC/UPHC,Ward No 62 BEHIND GANESHA TEMPLE MR PALYAJ C Nagar Bangalore 560043,Shivaji Nagar,Bangalore urban,560043,100,12.9973207,77.5570552
+61,Adugodi UPHC,Government PHC/UPHC,Ward no147 50 Bhuwaneshwari Road Bazar street Audgodi Disp Hosur main road near Adugodi singnal Bangalore 30,B T M Layout,Bangalore urban,560030,100,12.8539184,77.663879
+62,BANASHANKARI RH UCHC,Government CHC,Ward no 165 27th Cross 17th Main Near BNM Collage BSK 2nd Stage Bangalore 70,Padmanabha Nagar,Bangalore urban,560070,100,12.9219381,77.5641268
+63,WEST OF CHORD ROAD UPHC,Government PHC/UPHC,Ward no 124 9th cross 9th Main Viayanagar Disp Compound opp Shiva Ganesha Tempal West of chord ufwc,Vijayanagara,Bangalore urban,560040,100,12.978019,77.531722
+64,VIDYA PEETHA UPHC,Government PHC/UPHC,Ward no 164 1 12th Cross Backside of Hanumantha nagar Police Station Near Shankarnag Circle Ashok Nagar BSK 1st Stage Vidyapeetha HC,Basavanagudi,Bangalore urban,560050,100,12.9362275,77.5592709
+65,H SIDDAIAH ROAD RH UCHC,Government CHC,Ward no 118 2 nd Cross D Mavalli Bihand BBMP Car Parking J C Road Banagolre 02,Chickpete,Bangalore urban,560002,100,12.9593878,77.5807623
+66,J P NAGAR UPHC,Government PHC/UPHC,Ward no 178 12th Cross 35th Main opp Bangalore 1 J P Nagar 1 Places Bangalore 78,Jayanagara,Bangalore urban,560078,100,12.9078077,77.5762087
+67,SRI RAMPURA REFFERAL HOSPITAL,Government CHC,Ward No 97 9th Main Srirampura Near Srirampura Police Station Srirampura Refferal Hospital,Malleswaram,Bangalore urban,560021,100,12.9912029,77.5627326
+68,Nethaji Circle UPHC,Government PHC/UPHC,Ward No 36 Bbmp Building Nethaji Circle Nethaji Road Mathikere Nethaji Circle Uphc,Malleswaram,Bangalore urban,560054,100,13.0305378,77.5419879
+69,Nagappa block UPHC,Government PHC/UPHC,Ward No 76 3rd Main Near Srirampura Post Office Seva Kendra Building Nagappa Block Health Centre Main Road,Malleswaram,Bangalore urban,560021,100,13.0307003,77.5419879
+70,MOODALA PALYA UPHC,Government PHC/UPHC,Near Gkw Layout Bus Stop Near Masjid E Mohammadiya Saraswathi Nagar Moodalaplya Uphc,Govindarajanagara,Bangalore urban,560040,100,12.9708501,77.5241008
+71,MAHALAKSHIMI LAYOUT UPHC,Government PHC/UPHC,Agb Layout 2nd Main Geleyara Balaga Chairman Chinnappa Memorial Hospital Mahalakshmi Layout Uphc,Mahalakshmipura,Bangalore urban,560086,100,13.0066824,77.5383201
+72,KODANDRAPURA UPHC,Government PHC/UPHC,Sirur Park Road Seshadripuram Next To Esi Hospital Near Nataraja Theatre Kodandrapura Uphc,Gandhinagar,Bangalore urban,560020,100,12.9916105,77.5552019
+73,GORI PALYA RH UCHC,Government CHC,2nd Cross Sangam Circle Gori Palya Rh Uchc,Binnipete,Bangalore urban,560026,100,12.962331,77.5540538
+74,GH ANEKAL,Government TH,next to KSRTC Bus stand Anekal,Ward No - 18,Bangalore urban,562106,25,12.7083182,77.6982863
+75,GH KR PURAM,Government TH,Old Madras road K R Puram Bangalore,K R Pura,Bangalore urban,560036,25,12.9959732,77.670343
+76,MARATHAHALLI,Government PHC/UPHC,2nd cross beside slumboard opp Kalamandir bus stop Anandanagar Marathalli Bangalore,Marattahalli,Bangalore urban,560037,10,12.9556179,77.6968254
+77,GH YELAHANKA,Government TH,OPPOSITE TO SINGANAYAKANALI BANK YELAHANAK OLD TOWN,Kempegowda Ward,Bangalore urban,560064,25,13.1047379,77.5684677
+78,HEROHALLI,Government PHC/UPHC,PRIMARY HEALTH CENTR HEROHALLI MAGADI ROAD VISHWANEEDAM POST,Herohalli,Bangalore urban,560091,10,13.0081087,77.4339147
+79,MALLASANDRA,Government PHC/UPHC,Nagasandra Post Bangalore North Taluk Bangalore,Mallasandra,Bangalore urban,560057,10,13.0377743,77.4920375
+80,LAGGERE,Government PHC/UPHC,Muneshwara Badavane Peenya Post Bangalore North Taluk Bangalore,Laggere,Bangalore urban,560058,10,13.0181404,77.5047239
+81,KODIGEHALLI,Government PHC/UPHC,Primary Health Centre Kodigehalli sahakara nagara post Bangalore North Taluk Bangalore,Kodigehalli,Bangalore urban,560092,10,13.0683564,77.5759845
+82,BEGURU,Government PHC/UPHC,Primary health Centre near Police station Beguru,Begur,Bangalore urban,560114,40,12.8782555,77.6221546
+83,KONANKUNTE,Government PHC/UPHC,Primary Health Centre Konankunte,Konanakunte,Bangalore urban,560062,50,12.8841703,77.5643003
+84,DR Naik Hospital Munavalli,Private,AT POST MUNAVALLI TQ SAVADATTI,NA,Belgaum,591117,50,15.8510307,75.1177056
+85,MILITARY HOSPITAL,Other Government Buildings,CAMP BELAGAVI,Ward No - 1,Belgaum,590009,100,15.8615584,74.4926388
+86,VIJAY HOSPITAL,Private,AYODHAYA NAGAR BELAGAVI,Ward No - 1,Belgaum,590001,100,15.8685947,74.5082716
+87,BHS LAKEVIEW HOSPITAL,Private,GANDHI NAGAR,Ward No - 1,Belgaum,590016,100,15.8634286,74.5243701
+88,KLE HOSPITAL,Private,NEHRU NAGAR BELAGAVI,Ward No - 1,Belgaum,590010,100,15.8881346,74.502175
+89,General Hospital Gokak,Government CHC,General Hospital Gokak Gokak,Ward No - 1,Belgaum,591307,100,16.1694343,74.8010345
+90,CHC YARAGATTI,Government CHC,AT POST CHC YARAGATTI,NA,Belgaum,591129,10,16.0424567,74.6273802
+91,CHC HOSKOTI,Government CHC,AT POST CHC HOSKOTI,NA,Belgaum,591130,10,16.1650678,75.2306276
+92,CHC MUGALKHED,Government CHC,AT POST CHC MUGALKHED,NA,Belgaum,591235,10,16.1656238,74.9854405
+93,CHC KUDACHI,Government CHC,AT POST CHC KUDACHI,NA,Belgaum,591311,10,16.619013,74.5705142
+94,CHC NANGAD,Government CHC,AT POST CHC NANGAD,NA,Belgaum,591120,10,16.6191089,73.7291856
+95,CHC NIDASOSI,Government CHC,AT POST CHC NIDASOSI,NA,Belgaum,591236,100,16.3271724,74.2674879
+96,CHC SANKESHWAR,Government CHC,AT POST CHC SANKESHWAR,Ward No - 1,Belgaum,591313,100,16.3281208,74.2674844
+97,CHC MUDALAGI,Government CHC,AT POST CHC MUDALAGI,Ward No - 10,Belgaum,591312,100,16.3362374,74.6762126
+98,GH ATHANI,Government TH,AT POST ATHANI,Ward No - 1,Belgaum,591304,1000,16.7278614,74.7796494
+99,GH BAILHONGAL,Government TH,AT POST BAILHONGAL,Ward No - 1,Belgaum,591102,1000,16.7279369,73.9383214
+100,GH CHIKODI,Government TH,AT POST CHIKODI,Ward No - 1,Belgaum,591201,1000,16.4381478,74.4559989
+101,GH KHANAPUR,Government TH,AT POST KHANAPUR,Ward No - 1,Belgaum,591302,1000,16.4390042,74.0355599
+102,GH HUKKERI,Government TH,AT POST HUKKERI,Ward No - 1,Belgaum,591309,1000,16.2345783,74.5971482
+103,GH RAIBAG,Government TH,AT POST RAIBAG,Ward No - 1,Belgaum,591317,1000,16.4844849,74.6802778
+104,GH RAMDURG,Government TH,AT POST RAMDURG,Ward No - 1,Belgaum,591123,500,16.4853388,74.2598389
+105,GH SOUDATTI,Government TH,AT POST SOUDATTI,Ward No - 1,Belgaum,591126,500,16.4864814,74.2598249
+106,DISTRICT HOSPITAL BELAGAVI,Government DH,AT POST DISTRICT HOSPITAL BELAGAVI,Ward No - 1,Belgaum,590001,100,15.8691205,74.5088712
+107,CHC KAGWAD,Government CHC,AT POST KAGWAD,NA,Belgaum,591223,100,16.6790228,74.5893753
+108,CHC BELWADI,Government CHC,AT POST BELWADI,NA,Belgaum,591104,100,16.67892,73.6079899
+109,CHC KITTUR,Government CHC,AT POST KITTUR,NA,Belgaum,591115,100,15.5300984,74.5076751
+110,CHC NAGANUR,Government CHC,AT POST NAGANUR,NA,Belgaum,591102,100,15.5320381,74.507669
+111,CHC HIREBAGEWADI,Government CHC,AT POST HIREBAGEWADI,NA,Belgaum,591109,1000,15.5330079,74.507666
+112,CHC EXAMBA,Government PHC/UPHC,AT POST EXAMBA,NA,Belgaum,591244,100,16.5230321,74.4569236
+113,CHC NIPANI,Government CHC,AT POST CHC NIPANI,Ward No - 10,Belgaum,591237,100,16.523597,74.4569228
+114,CHC KABUR,Government CHC,AT POST CHC JKABURU,NA,Belgaum,591222,100,16.524162,74.456922
+115,GOVT HIGH SCHOOL SIRUGUPPA,Government PHC/UPHC,Govt Higher Primary School beside BEO Office Siruguppa Main Road Siruguppa,Ward No - 17,Bellary,583121,10,15.6277671,76.8916322
+116,HARA HARA TEMPLE HBHalli,Government CHC,HARA HARA Wedding Hall,NA,Bellary,583212,12,15.0564435,76.217308
+117,THO Office Kudligi,Government PHC/UPHC,Kudligi GH Kudligi,Ward No - 1,Bellary,583135,40,14.9050444,76.3796671
+118,CHC Kotturu,Government CHC,Trama Care Center CHC Kotturu,NA,Bellary,583131,70,14.9050444,76.3796671
+119,OLD ENGG COLLEGE HADAGALI,Government PHC/UPHC,Harapanahalli Road,Ward No - 10,Bellary,583219,0,15.0002137,75.8971126
+120,Sandur Ayurvedhik Hospital,Government CHC,Beside GH Sandur,NA,Bellary,583119,30,15.1804537,76.3741762
+121,GOVT HIGH SCHOOL Thoranagallu,Government PHC/UPHC,opposite OPG Thoranagallu,Ward No - 9,Bellary,583123,25,15.1810299,76.3741755
+122,Kurugodu Guest House,Government PHC/UPHC,VD GUest House Bandanhatti Road,Ward No - 24,Bellary,583101,25,15.1420462,76.7979409
+123,Kampli Govt High School,Government PHC/UPHC,Beside CHC Hospital,Ward No - 5,Bellary,583121,20,15.1429692,76.3775144
+124,Akashavani Hospet,Government PHC/UPHC,UPHC Akashavani Jannatha Road W No 24 Hospet,Ward No - 30,Bellary,583200,24,15.262111,76.3879183
+125,DAM Road Hospet,Government PHC/UPHC,UPHC 16th Ward DAM Road Dispenciary Behind Ram Deva Medicals W No 32 Talvar Keri Valmki Cicle Hospet,Ward No - 32,Bellary,583201,25,15.2631702,76.3379812
+126,Cowl Bazar Ballari,Government PHC/UPHC,W No 25 Swathanthra nagar Cowl Bazaar Ballari,Ward No - 25,Bellary,583104,25,15.1474217,76.9012185
+127,Gandhinagar Ballari,Government PHC/UPHC,Gnadhi Nagar Govt Hospital Moka Main Road Gandhi Nagar Ballari,Ward No - 21,Bellary,583103,15,15.2774046,76.9347933
+128,TANK BUND ROAD,Government PHC/UPHC,opposite Buda Complex Near Govt Urudu School Jain Market Ballari,Ward No - 3,Bellary,583102,20,15.1411356,76.9181847
+129,GOVT AYUVEDIC HOSPITAL Harapanahalli,Government PHC/UPHC,Near Harapanahalli THO Haranapahalli,Ambedkar Nagara,Bellary,583101,15,14.6230487,75.6796085
+130,VIMS Hospital,,Near RYMS College Ballari,Ward No - 1,Bellary,583101,150,15.1529531,76.8945018
+131,CHC HALLIKHED B,Government CHC,HALLIKHED B,,Bidar,585414,15,17.8592913,77.1558057
+132,UPHC POLICE HEALTH CENTRE,Government PHC/UPHC,BIDAR,Ward No - 2,Bidar,585401,15,17.9150422,77.4766795
+133,10 BEDDED UPHC BIDAR,Government PHC/UPHC,BIDAR,Ward No - 2,Bidar,585401,12,17.9329876,77.5234452
+134,UPHC NAUBAD,Government PHC/UPHC,NAUBAD BIDAR,Ward No - 2,Bidar,585403,5,17.9176776,77.5129245
+135,UPHC KUMBARWADA,Government PHC/UPHC,Near Zion Colony Kumbarwada BIDAR,Ward No - 30,Bidar,585401,12,17.9065458,77.4979757
+136,UPHC BIDRI COLONY,Government PHC/UPHC,BIDRI COLONY,Ward No - 2,Bidar,585403,15,17.8945151,77.4986134
+137,UPHC BASAVAKALYAN,Government PHC/UPHC,Near Fort Basavakalyan,Ward No - 31,Bidar,585327,25,17.8679221,76.9354947
+138,CHC KAMALNAGAR,Government CHC,KAMALNAGAR,,Bidar,585417,10,18.2356734,77.0377371
+139,TGH BHALKI,Government TH,BHALKI,Ward No - 20,Bidar,585328,15,18.2362238,77.0377364
+140,BRIMS BIDAR,Government DH,UDGIR ROAD BIDAR,Ward No - 5,Bidar,585401,20,17.9202723,77.5137766
+141,CHC CHITAGUPPA,Government CHC,CHITAGUPPA,Ward No - 16,Bidar,585412,10,17.6764593,77.1005779
+142,TGH HUMNABAD,Government TH,HUMNABAD,Ward No - 24,Bidar,585330,12,17.6764593,77.1005779
+143,TGH BASAVAKALYAN,Government TH,BASAVAKALYAN,Ward No - 15,Bidar,585327,3,17.6775697,77.1005764
+144,CHC MANNAEKHELLI,Government CHC,MANNAEKHELLI,NA,Bidar,585227,3,17.6781249,77.1005757
+145,CHC RAJESHWAR,Government CHC,RAJESHWAR,NA,Bidar,585331,6,17.67868,77.1005749
+146,TGH AURAD,Government TH,AURAD,Ward No - 20,Bidar,585326,35,17.6805044,76.6801389
+147,CHC SANTPUR,Government CHC,SANTPUR,NA,Bidar,585421,25,18.1622167,77.4362142
+148,CHC HULSUR,Government CHC,HULSUR,NA,Bidar,585417,15,18.1629774,77.1603888
+149,CHC NITTUR,Government CHC,NITTUR,NA,Bidar,585444,10,18.0921342,77.3337254
+150,Community Health Center Chadchan,Government CHC,Bijapur Road Chadchan,Ward No - 1,Bijapur,586212,100,17.3102086,75.668277
+151,Community Health Center Tadavalaga,Government CHC,Tadavalaga,NA,Bijapur,586112,100,17.0811731,75.9209643
+152,Community Health Center kalakeri,Government CHC,kalakeri,NA,Bijapur,586118,100,16.6700064,76.3074556
+153,Community Health Center Mortagi,Government CHC,Mortagi,NA,Bijapur,586123,100,17.0052885,76.4169945
+154,Community Health Center Almel,Government CHC,Afzalpur Road Near Bus Stand,Ward No - 1,Bijapur,586202,100,16.7644249,76.1244633
+155,Community Health Center Talikoti,Government CHC,Talikoti,Ward No - 1,Bijapur,586214,100,16.4757005,76.3072531
+156,Community Health Center Naltwad,Government CHC,Nalatwad,Ward No - 1,Bijapur,586212,100,16.3303354,76.1277207
+157,Community Health Center Nidagundi,Government CHC,Nidagundi,Ward No - 1,Bijapur,586213,100,16.3617814,75.9325718
+158,Taluka Hospital Sindagi,Government TH,Sindagi,Ward No - 1,Bijapur,586128,100,16.9266669,76.2339334
+159,Taluka Hospital Muddebihal,Government TH,Muddebihal,Ward No - 1,Bijapur,586212,100,16.3286223,76.1281038
+160,Taluka Hospital indi,Government TH,Indi,Ward No - 17,Bijapur,586209,100,17.1710489,75.9531946
+161,Taluka Hospital Bagewadi,Government TH,Bijapur Road Basavana Bagewadi,Ward No - 1,Bijapur,586203,100,16.5753453,75.966433
+162,District Hospital Vijayapur,Government DH,Athani Road Vijayapura,Ward No - 2,Bijapur,586101,100,16.8266339,75.6909078
+163,GH KOLLEGALA,Government TH,opposite to Indira canteen MM Hills Main Road,Christian Colony,Chamarajanagar,571440,50,12.1582253,77.1109191
+164,HANURU PHC,Government PHC/UPHC,MM Hills main road near forest office,Ambedkar Badavane,Chamarajanagar,571439,50,12.0882,77.3000502
+165,GH GUNDLUPETE,Government TH,KERALA ROAD GUNDELPETE,Jakirhussain Nagar,Chamarajanagar,571111,50,11.8044472,76.6850524
+166,GH Yelanduru,Government TH,Kollegala Main Road Yelanduru,Yalikeri,Chamarajanagar,571441,50,12.0488118,77.0300574
+167,District Hospital Chamarajanagar,Government DH,B Rachaiah Double Road Chamarajanagar,Dr B R Ambedikar Extn 1,Chamarajanagar,571313,300,11.9272674,76.9422163
+168,Urban Health Center Gauribidanur,Government PHC/UPHC,Gauribidanur,Ward No - 17,Chikkaballapura,561208,100,13.5917424,77.5072036
+169,Urban Health Center Sidlaghatta,Government PHC/UPHC,Sidlaghatta,Ward No - 1,Chikkaballapura,562105,100,13.3925142,77.8623322
+170,Urban Health Center Chinthamani,Government PHC/UPHC,Shanthi Nagar Chinthamani,Shanthi Nagar,Chikkaballapura,563125,100,12.9348872,77.3237922
+171,Primary Health Center Alipura Gauribidanur,Government PHC/UPHC,Primary Health Center Maseedi Road IK Main Road Opposite MH HOspital Alipura Gauribidanur Taluk,NA,Chikkaballapura,561213,100,13.5842665,77.3715383
+172,Urban Health Center Kandwara Chikkaballapur,Government PHC/UPHC,Urban Health Center Kandwara Chikkaballapur,Kandwara,Chikkaballapura,562101,100,13.4311116,77.714118
+173,General Hospital Gauribidanur,Government TH,General Hospital Bangalore Circle Gauribidanur,Ward No - 15,Chikkaballapura,561208,100,13.6084737,77.5176954
+174,General Hospital Gudibande,Government TH,General Hospital Opposite Taluk Panchayat Office Gudibande,Ward No - 1,Chikkaballapura,561209,100,13.6718317,77.7057114
+175,General Hospital Sidlaghatta,Government TH,General Hospital Near Railway Station TB Road Sidlaghatta,Ward No - 16,Chikkaballapura,562105,100,13.4332208,77.7239676
+176,General Hospital Chintamani,Government TH,General Hospital MG Road Chintamani,Hoovina Pete,Chikkaballapura,563125,100,13.4007005,78.0559515
+177,General Hospital Bagepalli,Government TH,General Hospital D V G Road Bagepalli,National College,Chikkaballapura,561207,100,13.7837454,77.7917654
+178,District Hospital Chikkaballapur,,District Hospital MG Road Chikkaballapur,District Hospital Area,Chikkaballapura,562101,100,13.4310735,77.7179988
+179,URBAN PRIMARY HEALTH CENTER B,Government PHC/UPHC,Pension mohalla,Pension Mohalla Ayapanagara,Chikmagalur,577101,50,13.3248741,75.7723403
+180,URBAN PRIMARY HEALTH CENTRE A,Government PHC/UPHC,GUNDAPPA STREET CHIKMAGALUR,Santemaidana,Chikmagalur,577101,60,13.3248562,75.7721671
+181,ARALAGUPPE MALLEGOWDA DISTRICT HOSPITAL,Government DH,OPP AZAD PARK CIRCLE CHIKMAGALUR,Donikana,Chikmagalur,577101,200,13.3173078,75.7722314
+182,TALUK GENERAL HOSPITAL THARIKERE,Government TH,BH ROAD THARIKERE,Kote Camp,Chikmagalur,577227,100,13.7103965,75.8086966
+183,TALUK GENERAL HOSPITAL SRINGERE,Government TH,NEAR WELCOM GATE SRINGERI,Bharathi Beedi,Chikmagalur,577139,100,13.4279276,75.2537278
+184,MSDM TALUK GENERAL HOSPITAL KOPPA,Government TH,BALGADI ROAD KOPPA,Balagadi Road,Chikmagalur,577125,100,13.5336036,75.3679481
+185,TALUK GENERAL HOSPITAL KADUR,Government TH,B H ROAD KADUR,Hale Pete 1,Chikmagalur,577548,100,13.5537542,76.0136576
+186,TALUK GENERAL HOSPITAL MUDIGERE,,K M ROAD MUDIGERE,Megalapete,Chikmagalur,577132,100,13.143294,75.645357
+187,TALUK GENERAL HOSPITAL N R PURA,,Main road N R Pura,Alepete,Chikmagalur,577134,100,13.6095948,75.5095072
+188,UPHC HIRIYUR,Government PHC/UPHC,Huliyar Road opp Tulsi kalayna mantapa hiriyur taluk,Ward No - 24,Chitradurga,577598,30,13.9442986,76.6144876
+189,UPHC CHALLAKERE,Government PHC/UPHC,Somaguddu road janatha colony challakere taluk,Ward No - 19,Chitradurga,577501,60,14.3082157,76.6469508
+190,UPHC BUDDANAGARA,Government PHC/UPHC,Opp stadium chitradurga taluk,Ward No - 33,Chitradurga,577501,65,14.2206434,76.4043288
+191,UPHC MARUTHINAGARA,Government PHC/UPHC,Darji colony 3 rd cross chitradurga taluk,Ward No - 21,Chitradurga,577501,75,14.2191792,76.4050612
+192,UPHC CHITRADURGA,Government PHC/UPHC,Holalkere road chitradurga taluk,Ward No - 13,Chitradurga,577501,100,14.2191792,76.4050612
+193,BASAVESHWARA HOSPITAL CHITRADURGA,Private,BASAVESHWARA HOSPITAL CHITRADURGA IN CHITRADURGA TALUK,Ward No - 30,Chitradurga,577501,500,14.2233181,76.4140075
+194,PRIMARY HEALTH CENTRE BHEEMASAMUDRA,Government PHC/UPHC,PRIMARY HEALTH CENTRE BHEEMASAMUDRA IN CHITRADURGA TALUK,NA,Chitradurga,577520,100,14.2368291,76.2779556
+195,SJM ARTS AND COMMERCE COLLEGE HOLALKERE ROAD CHITRADURGA,Government TH,SJM ARTS AND COMMERCE COLLEGE HOLALKERE ROAD CHITRADURGA IN CHITRADURGA TALUK,Ward No - 9,Chitradurga,577501,500,14.2248272,76.4003693
+196,GURUBHAVANA MOLAKALMUR,Government TH,GURUBHAVANA MOLAKALMUR IN MOLAKALMUR TALUK,Srinivasanayakan Badavane,Chitradurga,577533,200,14.2247964,76.4005142
+197,PATHIL BASAPPA CHOULTRY RAMPURA,Government CHC,PATHIL BASAPPA CHOULTRY RAMPURA IN MOLAKALMUR TALUK,,Chitradurga,577540,100,14.8832674,76.7816128
+198,GOVERNMENT HOSPITAL HOLALKERE,Government TH,GOVERNMENT HOSPITAL HOLALKERE IN HOLALKERE TALUK,Ward No - 6,Chitradurga,577526,200,14.0426209,76.1817904
+199,GOVERNMENT HOSPITAL PREMISES HOSADURGA,Government TH,GOVERNMENT HOSPITAL PREMISES HOSADURGA IN HOSADURGA TALUK,Ward No - 9,Chitradurga,577527,200,13.7981647,76.274553
+200,CHC PREMISES SRIRAMPURA,Government CHC,CHC PREMISES SRIRAMPURA IN HOSADURGA TALUK,NA,Chitradurga,577542,100,14.3006753,76.9015263
+201,GOVT HIGH SCHOOL PARASHURAMPURA,Government CHC,GOVT HIGH SCHOOL PARASHURAMPURA IN CHALLAKERE TALUK,NA,Chitradurga,577538,100,12.9647781,77.5843512
+202,CHAMBER OF COMMERCE SAMUDYA BHAVANA BENGALORE ROAD CHALLAKERE,Government TH,CHAMBER OF COMMERCE SAMUDYA BHAVANA BENGALORE ROAD CHALLAKERE IN CHALLAKERE TALUK,Ward No - 21,Chitradurga,577522,250,13.9295005,76.6142032
+203,TANYASI GOUNDAR SAMUDAYA BHAVANA HIRIYUR,Government TH,TANYASI GOUNDAR SAMUDAYA BHAVANA HIRIYUR HIRIYUR TALUK,Ward No - 17,Chitradurga,577598,200,13.9431616,76.615667
+204,PRIMARY HEALTH CENTRE IMANGALA,Government PHC/UPHC,PRIMARY HEALTH CENTRE IMANAGALA HIRIYUR TALUK,NA,Chitradurga,577558,100,12.5622187,75.3875881
+205,CHC SULLYA,Government TH,NH 275 SRIRAMPETE SULLYA,Gandhinagara Kayarthodi,Dakshina Kannada,574239,50,12.9124479,75.0320625
+206,TALUKA HOSPITAL BANTWAL,Government TH,BANTAWALA,Ward No - 23,Dakshina Kannada,574211,50,12.7563169,75.1989343
+207,GENERAL HOSPITAL PUTTUR,Government TH,PUTTUR,Ward No - 21,Dakshina Kannada,574201,50,12.9646727,75.2636028
+208,TALUKA HOSPITAL BELTHANGADY,Government TH,BEHIND SDM SCHOOL BELTHANGADY,Balthagadi Town,Dakshina Kannada,574214,50,12.867001,74.8403205
+209,WENLOCK DISTRICT HOSPITAL,Government DH,DISTRICT WENLOCK HOSPITAL HAMPANKATTA MANGALORE,Ward No - 2,Dakshina Kannada,575001,200,12.803421,74.8959092
+210,KANACHUR HOSPITAL,Private,MAIN ROAD MUDIPU MANGALORE,Ward No - 47,Dakshina Kannada,574153,100,12.553408,75.3821913
+211,KVG HOSPITAL,Private,COURT ROAD KURUNJIBAG SULLIA,Kurunji Bagh,Dakshina Kannada,574327,50,12.8078662,74.8860525
+212,K S HEGADE HOSPITAL,Private,JUSTICE KS HEGADE HOSPITAL UNIVERSITY ROAD DERALAKATTE MANGALORE,Ward No - 32,Dakshina Kannada,575018,100,12.808128,74.888188
+213,SRINIVAS MEDICAL COLLEGE HOSPITAL,Private,SRINIVAS INTEGRATED CAMPUS MUKKA SRINIVAS NAGAR SURATKAL,Ward No - 2,Dakshina Kannada,575021,50,12.8114545,74.8792416
+214,YENEPOYA MEDICAL COLLEGE HOSPITAL,Private,UNIVERSITY ROAD DERALAKATTE MANGALORE,Ward No - 32,Dakshina Kannada,575018,100,12.8589894,74.8459217
+215,KMC HOSPITAL ATTAVARA,Private,AMBEDKAR CIRCLE ATTAVARA MANGALORE,Ward No - 47,Dakshina Kannada,575001,100,12.8658029,74.8576634
+216,FATHER MULLER MEDICAL COLLEGE HOSPITAL,Private,FATHER MULLER ROAD KANKANADY MANGALORE,Ward No - 50,Dakshina Kannada,575002,100,12.8993521,74.8438391
+217,AJ MEDICAL COLLEGE HOSPITAL,Private,NH 66 KUNTIKANA MANGALORE,Ward No - 22,Dakshina Kannada,575004,100,13.7474409,76.1328717
+218,UPHC Harlapur,Government PHC/UPHC,Bhavan HaNoukara rlapur Harihar,Ward No - 4,Davanagere,577601,50,14.531889,75.810329
+219,UFWC 03 Sriram Nagar,Government PHC/UPHC,Sriram nagar Lokikere Road Davanagere,Ward No - 41,Davanagere,577005,50,14.2385727,75.6388188
+220,GENERAL HOSPITAL HONNALI,Government TH,MARIKOPPA ROAD HONNALI,Durgi Gudi Badavane South,Davanagere,577217,100,14.238813,75.636302
+221,SMK NAGAR UPHC,Government PHC/UPHC,RTO OFFICE CIRCLE SMK NAGAR,Ward No - 45,Davanagere,577006,30,14.473161,75.910581
+222,CHC SANTHEBENNUR,Government CHC,SASALU ROAD SANTHEBENNUR,,Davanagere,577552,200,14.1641307,75.7224409
+223,CHC KEREBILACHI,Government CHC,GOVT HOSPITAL KEREBILACHI,,Davanagere,577218,200,14.3962255,75.7642279
+224,G H HARIHAR,Government TH,G H HARIHAR,Ward No - 12,Davanagere,577601,200,14.3540192,75.7284448
+225,chc malebennur,Government CHC,chc malebennur,,Davanagere,577530,200,14.4409891,75.9127683
+226,Primary health center Bilichodu,Government PHC/UPHC,Phc bilichodu davangere road jagalur,,Davanagere,577553,150,14.5195241,76.3351826
+227,GH jagaluru,Government TH,Old taluku office road,Muslim Colony,Davanagere,577528,200,14.0254062,75.928204
+228,GH channagiri,Government TH,Post office road,Sarkari Noukarara Colony,Davanagere,577213,200,14.1493091,75.5675167
+229,COMMUNITY HEALTH CENTER NYAMATHI,Government CHC,BESIDE NAADAKACHERI NYAMATHI TQ DAVANGERE,,Davanagere,577223,100,14.4522963,75.9254411
+230,ESI hospital,Other Government Buildings,ESI hospital nituvalli,Ward No - 34,Davanagere,577002,100,14.4550045,75.9135423
+231,Bapuji Hospital,Private,Bapuji hospital,Ward No - 24,Davanagere,577004,200,14.478278,75.9043562
+232,AZAD nagara,Government PHC/UPHC,AZAD nagara,Ward No - 7,Davanagere,577004,100,14.4608555,75.8674851
+233,Bhasanagara UPHC,Government PHC/UPHC,Bhasanagara area,Ward No - 4,Davanagere,577002,100,14.4556438,75.9137946
+234,CG hospital,Government DH,CG hospital campus,Ward No - 24,Davanagere,577004,200,15.4186751,75.0479584
+235,SDM Medical College,Private,Sattur,Ward No - 22,Dharwad,580009,100,15.352743,75.1542405
+236,Central Railway Hospital,Other Government Buildings,Gadag Road,Ward No - 15,Dharwad,580020,100,15.3645904,75.0741284
+237,Chitaguppi UPHC,Government PHC/UPHC,Near Carporation Hubli,Ward No - 54,Dharwad,580020,50,15.4326189,75.0092818
+238,PUROHITNAGR UPHC,Government PHC/UPHC,PUROHITNAGAR,Ward No - 18,Dharwad,580002,50,15.4496292,74.9815387
+239,Barakotri UPHC,Government PHC/UPHC,Barakotri KUD Road,Ward No - 10,Dharwad,580001,50,15.4439531,74.9842736
+240,MadarMaddi UPHC,Government PHC/UPHC,MadarMaddi Dharwad,Ward No - 4,Dharwad,580007,300,15.3616002,75.1285314
+241,Karnataka Institute of Medical Sciences KIMS 2,Government Medical College,P B Road Vidyanagar Hubli,Ward No - 22,Dharwad,580020,500,15.3615994,75.1132105
+242,Karnataka Institute of Medical Sciences KIMS 1,Government Medical College,P B Road Vidyanagar Hubli,Ward No - 22,Dharwad,580020,500,15.361586,75.130715
+243,District Hospital,Government DH,Fort Road Dharwad,Ward No - 4,Dharwad,580007,100,15.449112,74.974274
+244,Urban Primary Health Centre Rehamath Nagar,Government PHC/UPHC,Rehamath Nagar,Ward No - 18,Gadag,582103,5,15.435936,75.623657
+245,Urban Primary Health Centre BETAGERI,Government PHC/UPHC,AZAD BUILDING HUIGOL ROAD GADAG BETAGERI,Ward No - 2,Gadag,582103,5,15.442113,75.655533
+246,Urban Primary Health Centre BETAGERI,Government PHC/UPHC,AZAD BUILDING HUIGOL ROAD GADAG BETAGERI,Ward No - 2,Gadag,582103,5,15.380959,75.5657838
+247,Urban Primary Health Centre Gadag,Government PHC/UPHC,near Gandhi Circle Old District Hospital Building Gadag,Ward No - 18,Gadag,582103,7,15.381083,75.600891
+248,CHC Gajendragada,Government CHC,Rona Road CHC Gajendragada,Ward No - 20,Gadag,582114,300,15.114988,75.4470455
+249,CHC Laxmeshwara,Government CHC,Near Bustand CHC Laxmeshwara,Ward No - 18,Gadag,582116,300,15.7207993,75.380888
+250,Taluk Hospital Naragunda,Government TH,Oppisite Bustand Taluk Hospital Naragunda,Ward No - 20,Gadag,582207,300,15.3797977,75.5992545
+251,Taluka Hospital Ron,Government TH,Near Court Navalagunda Taluka Hospital Ron,Ward No - 23,Gadag,582209,300,15.695984,75.724753
+252,Taluka Hospital Shirahatti,Government TH,Near Basaveshar Circle Taluka Hospital Shirahatti,Ward No - 3,Gadag,582120,300,13.0051864,76.0965304
+253,Taluka Hospital Mundaragi,Government TH,Taluka Hospital Mundaragi Near Taluk Panchayati,Ward No - 23,Gadag,582118,300,12.9520359,76.5754825
+254,GIMS Gadag,Government DH,Mulagunda Road Malasamudra Gadag,NA,Gadag,582103,500,12.8518956,76.4719837
+255,URBAN PRIMARY HEALTH CENTER ARASIKERE,Government PHC/UPHC,BESIDE MUTTUMARIYAMMA TEMPLE RIGHT SIDE OF HASSAN ROAD ARASIKERE,Hassan Road Right Side,Hassan,573103,20,13.0051864,76.0965304
+256,Sri M Krishna Urban Primary Health center,Government PHC/UPHC,Vallabai road Nirmala nagara circle Hassan,Vallabai Rasthe,Hassan,573201,20,12.9520359,76.5754825
+257,CHC Hirisave,Government CHC,B M road CHC Hirisave,NA,Hassan,573124,20,12.8518956,76.4719837
+258,CHC Shravanabelgola,Government CHC,near KSRTC bus stand Shravanabelgola,NA,Hassan,573135,10,13.0048638,76.1015922
+259,HIMS,,near old court Hassan,Krpuram 1,Hassan,573201,60,13.2137077,75.9908187
+260,CHC Halebeedu,Government CHC,beside KSRTC bus stand Halebeedu,NA,Hassan,573121,10,13.30905,76.2436046
+261,G H Arasikere,,Shivamoga tumkur road Arasikere,Subhash Nagara,Hassan,573103,30,13.1645094,75.8629084
+262,GH Belur,,Chenakeshavaswami temple road Belur,S K P Road,Hassan,573115,30,12.7861119,76.2418449
+263,GH Holenarasipura,,near KSRTC bus stand Holenarasipura,Ward No - 11,Hassan,573211,30,12.9449699,75.7841689
+264,G H Sakaleshpura,,B M road GH Sakaleshpura,Kushalanagara,Hassan,573134,15,12.7645054,76.0598748
+265,G H Arakalgud,,Holenarsipura road G H Arakalgud,Ganganagara,Hassan,573102,20,12.9056552,76.3842497
+266,GH Chanarayapatna,,B M road GH Chanarayapatna,Gayathri Uttara Badavane,Hassan,573116,20,12.977841,75.9873983
+267,GH alur,,GH Alur,B M Road,Hassan,573213,70,12.977841,75.9873983
+268,Trauma Care Centre TH Byadagi,Government TH,Taluka Hospital Byadagi,Ward No - 19,Haveri,581106,100,14.7087641,75.3694755
+269,MKBS Kannada school,Other Government Buildings,Hangal,Ward No - 6,Haveri,581104,100,14.7720523,75.1220799
+270,Taluka Level Hospital Savanur,Government TH,Savanur,Ward No - 7,Haveri,581118,100,14.9763566,75.3252697
+271,UPHC 1 Ranebennur,Government PHC/UPHC,PAMPA NAGAR RANEBENNUR,Ward No - 6,Haveri,581115,50,14.9758433,75.0538265
+272,UPHC Savanur,Government PHC/UPHC,KENDASHWAMI SEVA SAMITI BOVI ONI SAVANUR,Ward No - 17,Haveri,581118,50,14.9754478,75.3250207
+273,UPHC HAVERI,Government PHC/UPHC,NAGENDRANAMATTI HAVERI,Ward No - 4,Haveri,581110,50,14.8032213,75.3884384
+274,KEB Wedding Hall,Private,Haveri,Ward No - 31,Haveri,581110,100,14.7864282,75.4014032
+275,FC 15 UPHC Manikeshwari,Government PHC/UPHC,Manikeshwari Colany,Ward No - 34,Kalaburagi,585108,100,17.3434398,76.8197689
+276,FC 14 UPHC HEERAPUR,Government PHC/UPHC,Heerapaur,Ward No - 38,Kalaburagi,585103,100,17.3341707,76.735101
+277,Afzlapur General Hospital,Government PHC/UPHC,Near Bus stand Afzlapur,Ward No - 1,Kalaburagi,585301,30,17.202561,76.3490076
+278,FC 13 Govt HPS Roza Line 2,Government PHC/UPHC,Ramji Nagar NR Nagar Kalaburagi,Ward No - 12,Kalaburagi,585104,50,17.3452426,76.8545707
+279,FC 12 Al Ameen Higher Priamry School,Government PHC/UPHC,Near Bhuquari majjed Basaveshwar colony main Road santraswaadi maktmpur,Ward No - 23,Kalaburagi,585104,50,17.3377334,76.8498601
+280,FC 11 Arabbi Madarsa,Government PHC/UPHC,Opp Majjid Khooniwal Near Momin pura Near Muslim Chowk Maktampur,Ward No - 23,Kalaburagi,585104,50,19.5157475,72.6780134
+281,FC 10 Govt Primary School adarsh Nagr,Government PHC/UPHC,Maktampur,Ward No - 23,Kalaburagi,585104,50,17.3313539,76.8380403
+282,FC 9 Hajj Committe,Government PHC/UPHC,Nayamohalla Mominpura Khanapur,Ward No - 11,Kalaburagi,585104,50,17.3452613,76.8370594
+283,FC 8 Govt Primary School,Government PHC/UPHC,Sonia Gandhi colony NR Nagar Kalburagi,Ward No - 13,Kalaburagi,585104,50,17.3547644,76.8699622
+284,Noori Public School,Government PHC/UPHC,Near peer Bangali Darga Noorani Mohalla NR Nagar Kalburagi,Ward No - 13,Kalaburagi,585104,50,17.347756,76.8557622
+285,Umar Colony Azad Pur Raod,Government PHC/UPHC,Near Sabera AL Qumar Masjid NR Nagar kalaburagi,Ward No - 13,Kalaburagi,585104,50,17.3525184,76.8482331
+286,Limra Public School,Government PHC/UPHC,Mecca Colany Ring road Behind Shadab Functio Hall NR Nagar,Ward No - 13,Kalaburagi,585104,100,17.344049,76.8580177
+287,Maternity Health Centre Tarfile,Government PHC/UPHC,8th Cross Siddarth Nagar Kalburgai,Ward No - 53,Kalaburagi,585102,100,17.3289325,76.8386261
+288,Urban Health Centre New Rehemat Nagar,Government PHC/UPHC,Near New Rehemat Nagar colany,Ward No - 13,Kalaburagi,585104,100,17.338993,76.7698996
+289,Urban Health Centre Shivaji Nagar,Government PHC/UPHC,Near old leprosy Hospital Dubai colany Kalburagi,Ward No - 18,Kalaburagi,585101,100,17.3300558,76.8310543
+290,Urban Health Centre Ashok Nagar,Government PHC/UPHC,Near Water Tank Ashok Nagar Kalburagi,Ward No - 36,Kalaburagi,585103,100,17.3258927,76.8133163
+291,UPHC MADIKERI,Government PHC/UPHC,MAHADEVAPET MADIKERI,Madevapete Kanakadasa Road,Kodagu,571201,70,12.4217672,75.7356717
+292,Kodagu Institute of Medical Science,Government Medical College,GT Road Madikeri Taluk Kodagu District,Manglore Road,Kodagu,571201,100,12.4301212,75.7327253
+293,General Hospital Somawarpet,Government TH,Basaweshwara Road Somawapet Taluk Kodagu,Basaweshwara Road,Kodagu,571236,50,12.597201,75.8433793
+294,General Hospital Virajpet,Government TH,Ghadhinagara Virajpet Town Virajpet,Gandhinagara,Kodagu,571218,50,12.204395,75.7959588
+295,Urban Health Facility Madikeri,Government PHC/UPHC,Mahadevpet Madikeri,Madapet Main Road,Kodagu,571201,50,12.4353647,75.6187715
+296,SAMBHRAM HOSPITAL,Private,Sambhram Hospital D K Plantation BEML Nagar Kolar Gold Fields Karnataka 563115,Bharathipuram,Kolar,563115,100,12.4353422,75.6537902
+297,GENERAL HOSPITAL K G F,Government TH,Robertsonpet KGF,Hospital,Kolar,563122,100,12.9541181,78.26963
+298,GENERAL HOSPITAL MALUR,Government TH,NEAR BUS STAND MALUR TOWN MALUR KOLAR DISTRICT,Taluk Office Road,Kolar,563130,100,13.0041615,77.9355482
+299,GENERAL HOSPITAL SRINIVASPUR,Government TH,SRINIVASPUR TOWN SRINIVASPUR KOLAR DISTRICT,Ranga Road,Kolar,563135,100,13.3389335,78.2143323
+300,S N R DISTRICT HOSPITAL KOLAR,Government DH,GOWRIPET KOLAR,Gowripet,Kolar,563101,150,13.1666533,78.391885
+301,GENERAL HOSPITAL MULBAGAL,Government TH,MULBAGAL TOWN MULBAGAL KOLAR DISTRICT,Mujawar Mohalla,Kolar,563131,100,13.162258,78.393202
+302,UPHC MULBAGAL,Government PHC/UPHC,NUGULABANDE MULBAGAL,Noogula Bande 1,Kolar,563131,80,13.1646515,78.3786411
+303,UPHC RAHAMATHNAGAR,Government PHC/UPHC,RAHAMATHNAGAR KOLAR,Rahmath Nagara 1,Kolar,563101,80,13.136105,78.1300146
+304,UPHC KOLAR,Government PHC/UPHC,MARKET M G ROAD CROSS KOLAR,Arlepet & Old Extenion & Katari Palya,Kolar,563101,80,13.136105,78.131109
+305,UPHC GANDHINAGAR,Government PHC/UPHC,GANDHINAGAR KOLAR,Gandhinagara,Kolar,563101,80,13.1322092,78.1243718
+306,UPHC DARGAMOHALLA,Government PHC/UPHC,CLOCK TOWER KOLAR,Durga Mohalla & Shahid Nagar,Kolar,563101,80,13.136398,78.132665
+307,UPHC OORGAUMPET,Government PHC/UPHC,OORGAUMPET,Gandhi,Kolar,563115,80,12.9897778,78.1766547
+308,GENERAL HOSPITAL BANGARPET,Government TH,BANGARPET TOWN BANGARPET KOLAR DIST,Old Town 1,Kolar,563114,100,13.1325673,78.1708286
+309,R L Jalappa Hospital,Private,Tamka Kolar,Tamka,Kolar,563103,100,15.6159402,76.005329
+310,Govt MLA Module Primary School Yelburga,Government TH,Near BEO Office Yelburga,Ward No - 11,Koppal,583236,15,15.8200092,76.0439287
+311,Govt SC ST Boys Hostel Kustagi,Government TH,Near Tahsil Office Hanumasagar Raod Kustagi,Ward No - 14,Koppal,583277,20,15.4296868,76.5222354
+312,Urban Primary Health Center Gangawati2,Government PHC/UPHC,Old Sirigeri Hospital Islampur Gangawati,Ward No - 11,Koppal,583227,50,15.3510055,76.1489761
+313,Urban Primary Health Center Koppal,Government PHC/UPHC,Old District Hospital Campus Koppal,Ward No - 24,Koppal,583231,40,12.5111534,76.9521421
+314,Guthalu,Government PHC/UPHC,Opposite Manasa Medical Guthal,"""Gutthalu",Mandya,571403,10,12.9797993,76.7322737
+315,CHC Bellur,Government CHC,Bellur Hobli,NA,Mandya,571418,100,12.5672088,76.5278863
+316,CHC Bookanakere,Government CHC,Bookanakere hobli,NA,Mandya,571812,100,12.562413,76.527473
+317,MIMS,Government Medical College,MC road mandya,"""Old M C Road",Mandya,571401,300,12.6587152,76.4836545
+318,Taluk Hospital Krishnarajpet,Government TH,Hosaholalu road,"""Hosaholalu",Mandya,571426,100,12.6587152,76.4836545
+319,Kyathumgere,Government PHC/UPHC,Mari Gowda Badavana Mandya,"""Marigowda Badavane",Mandya,571401,20,12.5265528,76.8765399
+320,Taluk Hospital Pandavapura,Government TH,NH road pandavapura town,Santemala_Dollers Colany,Mandya,571434,100,12.49843,76.6661219
+321,AIMS,Private,BG Nagar Bellur cross,,Mandya,571418,300,12.9645053,76.7194696
+322,Taluk Hospital Nagamangala,Government TH,mysore tumkur road near Police station,K S R T C,Mandya,571432,100,12.6558311,76.4793309
+323,Taluk Hospital Sriranga patna,Government TH,Ganjam road,Santhemaala,Mandya,571438,100,12.5183159,76.8831641
+324,Taluk Hospital Malavalli,Government TH,main road Maddur to kolegala,Muslim Block,Mandya,571430,100,12.5009858,76.6515092
+325,Taluk Hospital Maddur,,old MC road Maddur,Leelavathi Badavane 1,Mandya,571428,100,12.5848085,77.0403826
+326,shankarpura,,shankarmata,Shankarpura,Mandya,571401,100,12.6671211,76.8837247
+327,URBAN PRIMARY HEATH CENTRE,Government PHC/UPHC,SUBRAMANYA NAGAR RING ROAD MYSORE,Hebbalu Lakshmikanthanagar,Mysore,570016,10,12.3537499,76.6124366
+328,UPHC T K Layout,Government PHC/UPHC,T K Layout Mysore,Tk_Layout,Mysore,570009,1,12.3537476,76.5796056
+329,PHC MMK,Government PHC/UPHC,MMK mysore,Kuvempu Nagara,Mysore,570019,1,12.2919215,76.6339263
+330,UPHC Kuvempunagar,Government PHC/UPHC,Kuvempunagar mysore,Kuvempu Nagara,Mysore,570023,1,12.2919213,76.6273602
+331,UPHC Subramanaynagar,Government PHC/UPHC,Subramanayanagar mysore,Metagali,Mysore,570016,1,12.323374,76.6661284
+332,UPHC N H Palya,Government PHC/UPHC,Nachanahalli Palya Mysore,J P Nagara,Mysore,570008,1,12.2043745,76.5017151
+333,UPHC Eranagrere,Government PHC/UPHC,Eranagere mysore,Gandhinagara,Mysore,570008,1,12.3393749,76.6500697
+334,UPHC Bannimatap,Government PHC/UPHC,Bannimatapa Mysore,Bannimantapa,Mysore,570015,1,12.3170862,76.6679798
+335,UPHC Shanthinagara,Government PHC/UPHC,Shanthinagar Mysore,Shanthinagara 1,Mysore,570019,1,12.3203325,76.6403536
+336,UPHC Rajendranagara,Government PHC/UPHC,Rajendra Ngar Mysore,Rajendranagara,Mysore,570007,1,12.3203327,76.6556744
+337,Chamundipuram,Government PHC/UPHC,Near st marries school chamundipuram mysore,Chamundipuram,Mysore,570004,0,15.994932,77.0298456
+338,Taluka General Hospital Manvi,Government TH,Chikalapravi Road Manvi Town Raichur District,Ward No - 8,Raichur,584123,50,15.994932,77.0298456
+339,Taluka General Hospital Lingasugur,Government TH,Lingasugur Town Raichur District,Ward No - 13,Raichur,584122,50,16.155758,76.5124327
+340,Taluka General Hospital Devadurga,Government TH,Devadurga Town Raichur District,Ward No - 15,Raichur,584111,50,15.7696257,76.7503867
+341,Taluka General Hospital Sindhanur,Government TH,Bus Road Sindhanur Town,Ward No - 7,Raichur,584128,50,16.155758,76.5124327
+342,CHC Anehosur,Government CHC,Anehosur Village Lingasugur Tq Raichur District,NA,Raichur,584122,40,16.1557121,76.3811009
+343,CHC Mudgal,Government CHC,Mudgal Village Lingsugur Tq Raichur District,NA,Raichur,584125,40,15.994932,77.0298456
+344,CHC Kavithal,Government CHC,Kavithal Village Manvi Tq Raichur District,NA,Raichur,584123,40,16.2755194,76.9444977
+345,CHC Arkera,Government CHC,Arkera Village Deodurga Tq Raichur District,NA,Raichur,584111,50,15.7335893,76.8058003
+346,CHC Jalahalli,Government CHC,Jalahalli Village Deodurga Tq Raichur District,NA,Raichur,584116,50,16.4236741,76.9343821
+347,CHC J Mallapur,Government CHC,Jagarakal Village Raichur Tq,NA,Raichur,584126,50,16.1432548,76.2655502
+348,UPHC Devaracolony,Government PHC/UPHC,Devaracolony Raichur Twon,Ward No - 2,Raichur,584101,30,16.2068393,77.3316664
+349,UPHC Harijanawada,,Harijanawada Raichur Town,Ward No - 19,Raichur,584101,30,16.2164385,77.3171633
+350,UPHC Siyatalab,,Siyatalab Raichur Town,Ward No - 25,Raichur,584101,30,16.2122353,77.3496864
+351,UPHC Zahirabad,,Zarhirabad Raichur Town,Ward No - 13,Raichur,584101,30,13.4358436,77.7182585
+352,PHC V G doodi,Government PHC/UPHC,V G Doddi Magadi taluk,NA,Ramanagara,562101,5,13.0701664,77.2398403
+353,CHC soluru,Government CHC,Solur,NA,Ramanagara,562127,5,12.5548665,77.4177148
+354,CHC sathnuru,Government CHC,Sathnuru kanakapura taluk,NA,Ramanagara,562126,5,13.1027191,77.2865009
+355,CHC Harohalli,Government CHC,Harohalli kanakapura taluk,NA,Ramanagara,561112,8,12.7963832,77.3834027
+356,CHC Bidadi,Government CHC,Bidadi,NA,Ramanagara,562159,10,12.7951008,77.3795476
+357,UPHC Kanakapura,Government PHC/UPHC,KSSIDC avarana kodihalli road,Kote 1,Ramanagara,562117,5,12.7205741,77.2695081
+358,UPHC Rayaradoddi,,Ijooru,Chamundipura,Ramanagara,562159,4,12.7184373,77.2787591
+359,UPHC Mehaboobnagara,,Mehaboob nagara,Mahaboob Nagara,Ramanagara,562159,4,12.7148782,77.2774994
+360,UPHC1 islampura channapatana,Government PHC/UPHC,islampura channapatana,Islampura,Ramanagara,562160,5,12.6556422,77.1958974
+361,UPHC islampura channapatana,,islampura channapatana,NA,Ramanagara,562160,5,13.9353085,75.560669
+362,District McGann Hospital,Government DH,District Mcgann Hospital Sagar Road Shivamogga,Sharavathi Nagara,Shimoga,577201,150,13.8472769,75.6979763
+363,AshwathNagara UHC,Government PHC/UPHC,Ashwatha Nagara Bhadravathi UHC,Hanumanth Nagar Aswath Nagar,Shimoga,577301,15,13.8337552,75.7057255
+364,UHC JANNAPURA,Government PHC/UPHC,BEHIND NTB OFFICE JANNAPURA BHADRAVATHI,Jannapura,Shimoga,577301,75,13.9235481,75.550829
+365,Vidya Nagara UPHC,Government PHC/UPHC,BH Road Shivamogga,Vidya Nagara North,Shimoga,577203,10,13.9345172,75.580644
+366,Bapuji Nagara UPHC,Government PHC/UPHC,Bapuji nagara Shivamogga,Bapujinagara,Shimoga,577202,10,13.934798,75.578265
+367,Bommanakatte UPHC,Government PHC/UPHC,Bommanakatte Shivamogga,Vinoba Nagara,Shimoga,577201,10,13.9235533,75.550829
+368,Tunga Nagara UPHC,Government PHC/UPHC,Tunga Nagara Shivamogga,Tippunagara,Shimoga,577204,15,13.689004,75.245222
+369,General Hospital Thirthahalli,Government TH,Taluka Hospital Thirthahalli,Ward No - 8,Shimoga,577432,15,14.3698681,75.0949051
+370,General Hospital Soraba,Government TH,Taluka Hospital Soraba,Soraba Sagara Road,Shimoga,577429,15,14.272207,75.3484263
+371,General Hospital Shikaripura,Government TH,Taluka Hospital Shikaripura,Ward No - 1,Shimoga,577427,10,13.9149114,75.062955
+372,General Hospital Hosanagara,Government TH,Taluka Hospitla Hosanagara,Ward No - 5,Shimoga,577418,15,14.1657445,75.0273821
+373,General Hospital Sagara,Government TH,Taluka Hospital Sagara,Marikamba Road,Shimoga,577401,15,13.834628,75.6855739
+374,General Hospital Bhadravathi,Government TH,Taluka Hospital Bhadravthi,Buthangudi,Shimoga,577245,50,12.8572811,76.8110224
+375,CHOWDANAKUPPE PHC,Government PHC/UPHC,CHOWDANAKUPPE,NA,Tumkur,572123,20,12.8578756,76.811027
+376,PHC UJJANI,Government PHC/UPHC,Ujjani 572123,NA,Tumkur,572123,100,12.7942299,77.0881964
+377,PHC,Government PHC/UPHC,Ujjani kunigal,NA,Tumkur,572123,100,13.3242875,77.1462848
+378,PHC Sri Siddaganga Mata,Government PHC/UPHC,Siddaganga mata Maranayakana Playa Road Mydala Gram Panchayath Tumkur,"""Kyatsandra Old Villege",Tumkur,572104,25,13.3142728,77.144787
+379,PHC Kythasandra Tumkur,Government PHC/UPHC,N H Four Beside Auto stand Near Kythsandra Tumkur,"""Kyatsandra Old Villege",Tumkur,572104,25,13.3379896,77.0942038
+380,P H Colony Siddartha Govt High School Tumkur,Other Government Buildings,15th cross P H Colony Near Hegade colony WARD NO 9,Kuripalya,Tumkur,572102,25,13.1577053,77.2058765
+381,Near Sheshadripuram College Govt High School Tumkur,Other Government Buildings,Govt High School Melekote Road Kuripalya Tumkur,Kuripalya,Tumkur,572102,25,13.1609506,77.159291
+382,Toda Layout Rajivgandhi Nagara Backward Boys Hostel,Other Government Buildings,Backward Govt Boys Hostel Rajivgandhi Nagara Tumkur,Kuripalya,Tumkur,572102,25,13.335343,77.090467
+383,PHC Kuripalya Tumkur,Government PHC/UPHC,Kuripalya Tumkur,Kuripalya,Tumkur,572102,25,13.3673114,77.1102583
+384,Sthyamangala Anganawadi Kendra Tumkur,Other Government Buildings,Sathyamangala Road Under pass Near Sri Rama Temple Near Sathyamangala WARD NO 23 Tumkur,"""Sathya Mangala",Tumkur,572106,25,13.3634307,77.0977155
+385,PHC Siragate Tumkur,Government PHC/UPHC,80 feet Road near H M S School Veterinary Hospital Housing Board Siragate Tumkur,"""Sathya Mangala",Tumkur,572105,25,13.3255516,77.0990215
+386,Goud Shed colony Anganawadi kendra Tumkur,Other Government Buildings,Goud Shed colony S R S road Shanthinagara Tumkur,"""Shanthinagar",Tumkur,572102,25,13.3255513,77.0990215
+387,Geddalahalli Anganawadi kendra Tumkur,Other Government Buildings,Govt Primary school near Ring Road Tumkur,"""Shanthinagar",Tumkur,572102,25,13.3187849,77.1002858
+388,JANATHA COLONY Anganawadi centre,Government PHC/UPHC,5th 6th 7th cross Maraluru dinne Tumkur Taluk,"""Shanthinagar",Tumkur,572102,25,13.3053928,77.0989093
+389,PHC SHANTHINAGARA,Government PHC/UPHC,Near Shanthi Nagara Govt School Vishvanna Layout Tumkur Taluk,"""Shanthinagar",Tumkur,572108,25,13.3816478,77.1132916
+390,Dibburu Tumkur,Government PHC/UPHC,Conference Hall Ashraya colony Tumkur Taluk,Dibbur Bheemasandra,Tumkur,572106,25,13.3428522,77.1175919
+391,Hanumanthapura,Government PHC/UPHC,Near Bylanjaneya Temple Tumkur,"""Hanmanpura",Tumkur,572104,20,13.3497617,77.1199068
+392,uphc kothithopu tumkur,Government PHC/UPHC,keb Road Tumkur,"""N R Colony",Tumkur,572102,1,13.3632008,76.8157438
+393,UPHC KUNIGAL,Government PHC/UPHC,CHOWDESHWARI STREET KUNIGAL,"""Maddur Road",Tumkur,572130,0,13.3351139,77.1005791
+394,UPHC Kothithopu,Government PHC/UPHC,K E B Main Road,"""N R Colony",Tumkur,572102,19,13.3470018,77.0871422
+395,dibbru asharaya colony conferance hall,Government PHC/UPHC,ashraya colony,Dibbur Bheemasandra,Tumkur,572101,10,12.817488,76.874699
+396,phc yadavani,Government PHC/UPHC,yadavani,NA,Tumkur,572111,40,13.76928,76.6374993
+397,phc yadavani,Government PHC/UPHC,yadavani,NA,Tumkur,572111,40,13.76928,76.6374993
+398,UPHC KUNIGAL,Government PHC/UPHC,CHOWDESHWARI STREET KUNIGAL,"""Maddur Road",Tumkur,572130,0,12.9962101,76.9319126
+399,UPHC SIRA,Government PHC/UPHC,Assar mohalla,Park Mohallla,Tumkur,572137,1,13.7451022,76.8919431
+400,UPHC KUNIGAL,Government PHC/UPHC,CHOWDESHWARI STREET KUNIGAL,"""Maddur Road",Tumkur,572127,0,12.9962101,76.9319126
+401,URBAN PRIMARY HEALTH CENTER,Government PHC/UPHC,MARUTHI NAGARA 1ST B CROSS SHETTYHALLIGATE MAIN ROAD,"""Devanuru",Tumkur,572102,30,13.3253657,77.1144376
+402,URBAN PRIMARY HEALTH CENTER,Government PHC/UPHC,MARUTHI NAGARA 1ST B CROSS SHETTYHALLIGATE MAIN ROAD,"""Devanuru",Tumkur,572102,25,13.3238113,77.105804
+403,UPHC AGRAHARA,Government PHC/UPHC,Shisvu Vihara Road Near Govt Urdu School Agrahara Chikkapete Tumkur,Agrahara_Chikkapete,Tumkur,572101,25,13.3486856,77.0942383
+404,District Hospital Tumakuru,Government DH,District Hospital B H Road Near Caltex Circle Tumakuru,Gandinagar,Tumkur,572101,45,13.3401583,77.0983259
+405,Gen Hospital Turuvekere,Government TH,Mayasandra Road Opp Petrol bunk Turuvekere,Gandhi Nagara,Tumkur,572227,25,13.1622342,76.6673842
+406,Gen Hospital Sira,Government TH,Govt Hospital Main Road,Rab Nagara,Tumkur,572137,20,13.7369888,76.7759139
+407,Gen Hospital C N Halli,Government TH,Opp court B H Road Chikkanayakanahalli,Ward No - 5,Tumkur,572214,14,13.4040434,76.621592
+408,Gen Hospital Madhugiri,Government TH,Near Private Bus Stand,Ward No - 8,Tumkur,572132,60,13.6396644,77.2573282
+409,UPHC Kunigal,Government PHC/UPHC,Chowdeshwari Street Behind canara bank Kunigal,Doddpete Upparbeedhi,Tumkur,572130,25,13.023551,77.0189072
+410,UPHC Sira,Government PHC/UPHC,Old Hospital Building Assar Mohalla Main Road Sira,Rab Nagara,Tumkur,572137,20,13.7422061,76.8980717
+411,UPHC Tiptur,Government PHC/UPHC,Premises of Municiple Part Opp to railway station Gandhinagar,Ward No - 21,Tumkur,572201,25,13.2651879,76.4583155
+412,Gen Hospital Tiptur,Government TH,B H Road Tiptur,Ward No - 14,Tumkur,572201,25,13.2615786,76.460836
+413,Gen Hospital Gubbi,Government TH,Gubbi General Hospital,C M C Society Bakside,Tumkur,572216,15,13.3089623,76.9381712
+414,Gen Hospital Koratagere,Government TH,GH Koratagere nera bus stand main road,Ward No - 13,Tumkur,572129,15,13.521802,77.2224375
+415,Gen Hospital Pavagada,Government TH,Nera Toll Gate Bellary road Pavagada,Ward No - 5,Tumkur,561202,50,14.1022497,77.2814195
+416,UPHC Shettihalli,Government PHC/UPHC,Shettihalli Main Road Maruthi Nagar First B Cross Opp P and T Quarters Road,S S Puram,Tumkur,572102,30,13.5220168,77.2397738
+417,PHC Kuripalya,Government PHC/UPHC,Melekote Road Kuripalya,"""Maraluru Dinne",Tumkur,572102,25,14.1022596,77.2843507
+418,UPHC Kothithopu,Government PHC/UPHC,Kothithopu circle Shivakumar swamy Circle road,"""Shriramnagar",Tumkur,572101,25,13.335343,77.0926557
+419,UPHC Agrahara,Government PHC/UPHC,UPHC Agrahara Shiravara Road Near Govt Urdu School Agrahara,Agrahara_Chikkapete,Tumkur,572101,25,13.3477407,77.0926181
+420,District Hospital Tumakuru,,District Hospital B H Road Near Caltex Circle Tumakuru,Gandinagar,Tumkur,572101,50,13.3407361,77.0969966
+421,Taluk Hospital Kundapura,Government TH,Taluk Hospital Kundapura Parijatha Circle,Govt Hospital Vatara,Udupi,576201,80,13.3399985,77.1000114
+422,Taluk Hospital Karkala,Government TH,Taluk Hospital Karkala Near maari gudi Road,Madya Pete,Udupi,574104,80,13.6312896,74.6950329
+423,District Hospital Udupi,Government DH,District Hospital ajjarkad udupi,Ajarkad,Udupi,576101,100,13.217967,74.9972945
+424,UPHC SIRSI,Government PHC/UPHC,SIRSI,Marati Koppa,Uttara Kannada,581401,50,13.3340464,74.7421059
+425,UPHC DANDELI,Government PHC/UPHC,DANDELI,Maruthi Nagar,Uttara Kannada,581325,50,14.615341,74.8299391
+426,UPHC KARWAR,Government PHC/UPHC,KARWAR,Ward No - 2,Uttara Kannada,581301,50,15.2530165,74.6202659
+427,TALUK HOSPITAL JOIDA,Government TH,NEAR DURGA DEVI TEMPLE TALUKA HOSPITAL JOIDA PIN CODE,Ward No - 21,Uttara Kannada,581186,50,15.1600967,74.486769
+428,CHC DANDELI,Government CHC,Near Somani Circle Dandeli,Ward No - 20,Uttara Kannada,581325,50,15.1604086,74.4885228
+429,TALUK HOSPITAL HALIYAL,Government TH,Dharwad Road Near Taluk Panchyath Haliyal,Ward No - 15,Uttara Kannada,581329,50,15.3306561,74.7709548
+430,CHC PALA,Government CHC,PALA,,Uttara Kannada,581346,50,14.7967283,75.0419094
+431,TALUK HOSPITAL MUNDGOD,Government TH,TDB ROAD MUNDGOD,Ward No - 10,Uttara Kannada,581349,50,15.0471995,75.0537207
+432,TALUK HOSPITAL YELLAPUR,Government TH,YELLAPUR,Akbargali,Uttara Kannada,581359,50,14.9684366,74.7176329
+433,TALUK HOSPITAL SIDDAPUR,Government TH,SIDDAPUR,Ward No - 7,Uttara Kannada,581329,50,14.3487354,74.8902622
+434,PANDIT GENERAL HOSPITAL SIRSI,Government TH,AT CHURCH ROAD SIRSI,Indira Nagar,Uttara Kannada,581401,50,14.6154546,74.8300032
+435,TALUK HOSPITAL BHATKAL,Government TH,SAGAR ROAD BHATKAL,D P Colony,Uttara Kannada,581320,50,13.9975209,74.5528988
+436,TALUK HOSPITAL HONNAVAR,Government TH,HONNAVAR,Baande Gadde,Uttara Kannada,581334,50,14.2781142,74.4457142
+437,TALUK HOSPITAL KUMTA,Government TH,BAGGON CROSS KUMTA,Ward No - 10,Uttara Kannada,581332,50,14.4184244,74.4187216
+438,TALUK HOSPITAL ANKOLA,Government TH,OPP JAI HINDH LODGE ANKOLA,Ward No - 10,Uttara Kannada,581314,50,14.6597979,74.304897
+439,KARWAR INSTITUTE OF MEDICAL SCIENCES TEACHING DISTRICT HOSPITAL KARWAR,Government DH,M G ROAD KAJUBAG KARWAR,Ward No - 16,Uttara Kannada,581301,50,14.817508,74.1300167
+440,Hunasagi Fever Clinic,,Govt Boys High School Hunasagi,Ward No - 12,Yadgir,585215,300,16.4496207,76.523619
+441,Urban PHC Fever Clinic,,Near Gandhi Chowk Surpur,Ward No - 15,Yadgir,585224,300,16.5239193,76.7540434
+442,Bhimarayana Gudi Fever Clinic,,KBJNL Bhimarayana Gudi,Ward No - 11,Yadgir,585287,250,16.7282713,76.7995732
+443,Gurmatkal Fever Clinic,,Govt Degree college Gurmatkal,Ward No - 10,Yadgir,585214,300,16.8754317,77.3920762
+444,Ayush Building Fever Clinic,,Near Hosalli Cross Yadgiri City,NA,Yadgir,585202,300,16.7497803,77.1357575
